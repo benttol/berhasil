@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'F e b b'; 
+const BotName = 'BOT F e b b'; 
 const instagram = 'instagram.com/febby28_'; 
 const telegram = '@FebbyAdityaNugraha'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
