@@ -9,7 +9,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 ## CARA INSTALL
 # TERMUX
-
+```
 > download termux
 > buka
 > pkg install git
